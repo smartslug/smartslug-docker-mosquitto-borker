@@ -1,0 +1,4 @@
+1、安装docker软件（不同平台选择不同版本win linux）
+2、运行 mosquitto（support websocket） broker image 注意端口号设置
+3、docker mosquitto image 作为系统的虚拟mqtt服务器，运行在系统中。
+

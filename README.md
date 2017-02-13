@@ -97,3 +97,7 @@ docker-mosquitto was written by:
  * [Raphael Ahrens](https://github.com/tantSinnister)
 
 License: [BSD 3-Clause](https://tldrlegal.com/license/bsd-3-clause-license-%28revised%29)
+
+## 不能运行docker的环境
+直接参考
+Dockerfile文件来搭建和配置您的系统
